@@ -1,0 +1,2 @@
+# ZADANIE-5-PHP-5---TABLICE
+tablice
